@@ -3,7 +3,7 @@
 Ein Gespräch mit Satoshi Nakamoto  
 Blockzeit: 900333
 
----
+--- 
 
 ## 🌿 Beschreibung
 
